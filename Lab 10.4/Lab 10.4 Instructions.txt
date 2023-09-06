@@ -1,0 +1,18 @@
+Instructions
+Create a class named�Poem�that contains the following fields:
+* title�- the name of the poem (of type�String)
+* lines�- the number of lines in the poem (of type�int)
+Include a constructor that requires values for both fields. 
+Also include get methods to retrieve field values. Create three subclasses:�Couplet,�Limerick, and�Haiku. 
+The constructor for each subclass requires only a�title; the�lines�field is set using a constant value. 
+A couplet has two lines, a limerick has five lines, and a haiku has three lines.
+An example of the�DemoPoems�program is shown below:
+Poem: The Raven   Lines: 84
+Poem: True Wit   Lines: 2
+Poem: There was an Old Man with a Beard   Lines: 5
+Poem: The Wren   Lines: 3
+Grading
+Write your Java code in the area on the right. Use the�Run�button to compile and run the code. 
+Clicking the�Run Checks�button will run pre-configured tests against your code to calculate a grade.
+Once you are happy with your results, click the�Submit�button to record your score.
+

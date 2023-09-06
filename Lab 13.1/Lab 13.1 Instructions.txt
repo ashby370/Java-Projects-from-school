@@ -1,0 +1,11 @@
+Instructions
+Write an application that displays the name, containing folder, size, and time of last modification for the file FileStatistics.java. Your program should utilize the getFileName(), readAttributes(), size(), and creationTime() methods.
+An example of the program is shown below:
+File name is FileStatistics.java
+Folder name is sandbox
+File's size is 884
+File's creation time is 2018-05-30T16:28:01.410343Z
+Grading
+Write your Java code in the area on the right. Use the Run button to compile and run the code. Clicking the Run Checks button will run pre-configured tests against your code to calculate a grade.
+Once you are happy with your results, click the Submit button to record your score.
+

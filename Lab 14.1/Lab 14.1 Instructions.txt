@@ -1,0 +1,11 @@
+Instructions
+Write an application that displays a�JFrame�containing the opening sentence from�A Christmas Carol. 
+Add a button to the frame in the�JBookQuote�program. When the user clicks the button, display the title 
+of the book that contains the quote in the available�JLabel�using the�setText()�method.
+An example of the program is shown below:
+
+Grading
+Write your Java code in the area on the right. Use the�Run�button to compile and run the code. 
+Clicking the�Run Checks�button will run pre-configured tests against your code to calculate a grade.
+Once you are happy with your results, click the�Submit�button to record your score.
+

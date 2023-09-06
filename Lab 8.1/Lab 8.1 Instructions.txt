@@ -1,0 +1,9 @@
+Instructions
+Write an application that stores the following nine integers in an array called�numbers:
+�10,�15,�19,�23,�26,�29,�31,�34,�38. 
+Display the integers from first to last, and then display the integers from last to first.
+Grading
+Write your Java code in the area on the right. Use the�Run�button to compile and run the code. 
+Clicking the�Run Checks�button will run pre-configured tests against your code to calculate a grade.
+Once you are happy with your results, click the�Submit�button to record your score.
+
